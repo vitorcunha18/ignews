@@ -1,15 +1,14 @@
-criar projeto next
-
+=criar projeto next
 install = npx create-next-app nomeprojeto
 
-
-adicionar typescript
-
+=adicionar typescript
 yarn add typescript @types/react @types/node -D
 
-
-adicionar sass
+=adicionar sass
 yarn add sass
 
+=site com cor 
+chakra
 
-site com cor chakra
+=pacote de icons 
+yarn add react-icons
