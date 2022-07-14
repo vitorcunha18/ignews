@@ -17,3 +17,7 @@ yarn add react-icons
 =install stripe
 yarn add stripe
 
+=install Next Auth
+yarn add next-auth
+
+
