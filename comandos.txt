@@ -21,3 +21,6 @@ yarn add stripe
 yarn add next-auth
 
 
+
+=install fauna
+yarn add faunadb
